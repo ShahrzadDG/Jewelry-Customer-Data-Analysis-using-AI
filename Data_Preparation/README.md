@@ -3,15 +3,17 @@ The preprocessing pipeline consists of two main stages:
 
 1. Identifying Jewelry Products:
    
-   Parent_asin_of_jewelries.py
+   Parent_asin_of_meta.py
    
    Input: Amazon Clothing, Shoes & Jewelry metadata file (meta_Clothing_Shoes_and_Jewelry.jsonl)
    
    Method:
    
-      1. Metadata filtering (select only jewelry items)
+      1. Filter the metadata to keep only items that belong to jewelry-related categories.
    
-      2. Providing jewelry product list (store their unique parent_asin identifiers) 
+      2. Extract the corresponding jewelry products and store their unique parent_asin identifiers.
+  
+      3. Collect additional useful metadata such as the product title, average rating, rating number, features, description, price, store, brand, and manufacturer, and store the results in a structured dataset.
    
 2. Extracting Reviews for Jewelry Products:
    

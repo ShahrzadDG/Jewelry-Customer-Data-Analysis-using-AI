@@ -13,8 +13,8 @@ jewelry_meta_small = jewelry_meta[["parent_asin", "brand", "brand_name", "manufa
 jewelry_meta_small = jewelry_meta_small.rename(columns={"title": "product_title"})
 # print(jewelry_meta_small["parent_asin"].head(5).tolist())
 
-review_path = "/beegfs/dehghani/NLP/Amazon2023/Clothing_Shoes_and_Jewelry.jsonl"
-out_dir = "/beegfs/dehghani/NLP/Amazon2023/"
+review_path = "/.../Clothing_Shoes_and_Jewelry.jsonl"
+out_dir = "/.../"
 out_parquet_dir = os.path.join(out_dir, "Jewelry_review_files")
 
 if os.path.exists(out_parquet_dir):
@@ -90,10 +90,6 @@ for Review_chunk in df_review:
 
         writers[key].write_table(table)
         total_matches += table.num_rows
-    
-    # table = pa.Table.from_pandas(out, preserve_index=False)
-
-    # pq.write_to_dataset(table,root_path=out_parquet_dir,partition_cols=["year", "month"],compression="snappy",)
 
     if chunk_i%10==0:
         print(chunk_i, total_matches)

@@ -27,6 +27,6 @@ The preprocessing pipeline consists of two main stages:
   
       2. The final dataset is stored in a parquet format and partitioned by year. Each year directory contains several reviews-XXXX.parquet files with the processed review data.
          
-       Path to each file: /.../year=YYYY/reviews-XXXX.parquet (Ex: reviews-[0001..N].parquet)
+       Path to each file: /.../year=YYYY/reviews-[0000..N].parquet (Ex: reviews-0000.parquet, reviews-0001.parquet, etc)
  
    Each of the reviews-XXXX.parquet files include the following columns: parent_asin, brand, brand_name, manufacturer, product_title, average_rating, rating_number, price, categories, rating, review_title, review, asin, timestamp

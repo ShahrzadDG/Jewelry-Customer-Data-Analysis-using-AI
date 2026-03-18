@@ -29,20 +29,17 @@
 
       <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
 
-    - Compared how ratings differ across these segments over time.
-
-    <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
-
 
 - Investigated relationship between price and satisfaction:
 
-  compared average ratings per price segment
+    - Tested whether expensive brands are actually better rated? Compared how ratings differ across these price segments. All segments have very similar rating ranges, but cheap products show a wider spread, and luxury products are more tightly clustered.
 
-  tested whether expensive brands are actually better rated
+    <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
+ 
+    - Built different versions of a “value for money” score (including log and z-score normalization)
+        - Results depend heavily on the definition. The results of rating / log(price) approach dominate with cheap products. Using normalized score (z-score) leads to more balanced brands. 
 
-  built different versions of a “value for money” score (including log and z-score normalization)
-
-Analyzed market structure:
+- Analyzed market structure:
 
   showed strong imbalance: ~108k cheap products vs only ~300 luxury ones
 

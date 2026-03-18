@@ -44,7 +44,7 @@
     - Showed strong imbalance: ~108k cheap products vs only ~300 luxury ones.
 
     - Compared average rating and popularity (review counts) across price segments.
-        - The plot shows the ratings across all segments are relatively stable over the years, with cheap and mid-priced products slightly improving over time, while luxury shows more fluctuation due to smaller sample size.
+        - The plot shows that the ratings across all segments are relatively stable over the years, with cheap and mid-priced products slightly improving over time, while the luxury products show more fluctuation due to a smaller sample size.
  
         <img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/ce0356e0-2203-46bc-9191-b44bdd6c135d" />
 

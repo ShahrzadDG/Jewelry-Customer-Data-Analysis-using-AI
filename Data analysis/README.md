@@ -4,7 +4,7 @@
 
 - Compared brands performances:
 
-  -- aggregated product ratings at brand level
+    - aggregated product ratings at brand level
 
   used a weighted score to avoid bias from products with very few reviews
 

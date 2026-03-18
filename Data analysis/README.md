@@ -2,9 +2,9 @@
 
 - Cleaned and structured the data to analyze products, brands, prices, ratings, and review text.
 
-Built brand-level performance metrics:
+- Compared brands performances:
 
-  aggregated product ratings at brand level
+  -- aggregated product ratings at brand level
 
   used a weighted score to avoid bias from products with very few reviews
 

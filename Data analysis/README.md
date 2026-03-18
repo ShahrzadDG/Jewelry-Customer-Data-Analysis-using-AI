@@ -5,7 +5,7 @@
 - Compared brand performances:
 
     - Aggregated product ratings for each brand, used a weighted score to avoid bias from products with very few reviews.
-    - Ranked ~11k+ brands based on both rating quality and review volume.
+    - Ranked ~11k+ brands based on both rating and review volume.
 
 <img width="915" height="624" alt="image" src="https://github.com/user-attachments/assets/f2b8afcd-419c-491c-b640-80835b5ccbe4" />
 

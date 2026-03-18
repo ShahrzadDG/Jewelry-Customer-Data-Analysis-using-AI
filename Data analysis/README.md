@@ -48,7 +48,7 @@
  
         <img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/ce0356e0-2203-46bc-9191-b44bdd6c135d" />
 
-        - Cheap products has the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. It suggests increasing interest in higher-end items :) 
+        - Cheap products have the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. It suggests increasing interest in higher-end items.
 
     <img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/b83caa35-a8f1-4c1b-abe3-259975948632" />
 

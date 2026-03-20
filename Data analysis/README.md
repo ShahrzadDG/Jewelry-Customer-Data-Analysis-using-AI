@@ -80,7 +80,7 @@
 
 - Analyzed how certain keywords/phrases are distributed across brands or segments.
 
-    - Luxury products receive more price-related language, both positive and negative. It suggests luxury buyers talk more about value for money in both directions.
+    - Luxury products receive more price-related language, both positive and negative - though it was ten times more prevalent in negative than in positive remarks. This suggests luxury buyers talk more about value for money in both directions.
 
     <img width="479" height="340" alt="image" src="https://github.com/user-attachments/assets/ba18a3fa-5380-4d7d-b4e4-90dd13e0b6fb" />
 

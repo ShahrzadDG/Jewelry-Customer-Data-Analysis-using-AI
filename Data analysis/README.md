@@ -146,7 +146,7 @@
 
     - On the other hand, size-related complaints are more noticeable in luxury items.
  
-    - Complaint patterns reveal a gap between quality and customer expectations. Cheaper products tend to have more physical failures (e.g., broken, defects). Luxury products, on the other hand, more often contains subjective dissatisfaction (e.g., cheaply made) or focuses more on value for money and expectations. As a result, customers tend to judge luxury items more critically.
+    - Complaint patterns reveal a gap between quality and customer expectations. Cheaper products tend to have more physical failures (e.g., broken, defects). Luxury products, on the other hand, more often show subjective customer dissatisfaction (e.g., cheaply made) or focus more on value for money and expectations. As a result, customers tend to judge luxury items more critically.
 
     - Luxury reviews emphasize value-for-money discussions, while cheap product reviews emphasize affordability, showing that price plays a different psychological role across segments.
 
@@ -156,7 +156,7 @@
  
     - Market competition increases over time with more brands entering.
  
-    - Certain brands show exceptionally high association with specific complaints in a price segment (e.g., up to ~65–78% of reviews mentioning breakage in cheap products). It reveals significant quality differences within the same price segment. 
+    - Certain brands show exceptionally high association with specific complaints in a price segment (e.g., up to ~65–78% of reviews mentioning breakage in cheap products). This reveals significant quality differences within the same price segment. 
 
-    - Many top brands in a given year have only a few products.
+    - Many top brands in a given year only have a few products.
 

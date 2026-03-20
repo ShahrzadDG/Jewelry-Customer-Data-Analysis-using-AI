@@ -27,7 +27,7 @@
 
     - Segmented products into cheap / mid / luxury.
 
-      <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
+    <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
 
 
 - Investigated relationship between price and satisfaction:

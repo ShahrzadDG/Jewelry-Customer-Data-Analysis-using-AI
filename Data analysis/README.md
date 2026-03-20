@@ -50,11 +50,11 @@
     - Compared average rating and popularity (review counts) across price segments.
         - The plot shows that the ratings across all segments are relatively stable over the years, with cheap and mid-priced products slightly improving over time, while the luxury products show more fluctuation due to a smaller sample size.
  
-        <img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/ce0356e0-2203-46bc-9191-b44bdd6c135d" />
+        <img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/2e21e4b3-95a1-4e14-9c97-79741088b2d9" />
 
         - Cheap products have the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. It suggests increasing interest in higher-end items.
 
-    <img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/b83caa35-a8f1-4c1b-abe3-259975948632" />
+        <img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/b83caa35-a8f1-4c1b-abe3-259975948632" />
 
 
 - Performed review text analysis (NLP):

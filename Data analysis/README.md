@@ -96,7 +96,7 @@
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/63286ba2-90f2-4640-9e28-33f850ef64ce" />
 
-    - Cheap products fail physically more often, but luxury products are judged more critically in terms of perceived quality. It reflects higher customer expectations and stricter evaluation standards.
+    - Cheap products fail physically more often, but luxury products are judged more critically in terms of perceived quality. This reflects higher customer expectations and stricter evaluation standards.
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/4c4cf80f-02ae-4e73-af33-498f9a19f00e" />
 

@@ -142,22 +142,21 @@
 
 - Customer complaints follow clear patterns across segments.
 
-    - “Quality problems” are more common in cheap products (~5.4%) than mid (~4.7%) and luxury (~2%). 
+    - “Quality problems” are far less common in luxury products. 
 
-    - Some issues (like defects) appear more evenly across segments. 
+    - On the other hand, size-related complaints are more noticeable in luxury items.
+ 
+    - Complaint patterns reveal a gap between quality and customer expectations. Cheaper products tend to have more physical failures (e.g., broken, defects). Luxury products, on the other hand, more often contains subjective dissatisfaction (e.g., cheaply made) or focuses more on value for money and expectations. As a result, customers tend to judge luxury items more critically.
 
-    - Size-related complaints exist in all segments, but are relatively noticeable in luxury items as well.
-
-    - People mention price and affordability much more in cheaper products, while it comes up less for higher-priced items. It shows that customers focus more on cost in the low-price segment.
-  
-    - This shows that:
-
-        - Cheap products struggle more with quality/durability but expectation mismatch exists in all price levels.
-
+    - Luxury reviews emphasize value-for-money discussions, while cheap product reviews emphasize affordability, showing that price plays a different psychological role across segments.
 
 - Brand rankings are highly dynamic over time. The yearly analysis shows that:
 
     - Top-ranked brands change frequently.
+ 
+    - Market competition increases over time with more brands entering.
+ 
+    - Certain brands show exceptionally high association with specific complaints in a price segment (e.g., up to ~65–78% of reviews mentioning breakage in cheap products). It reveals significant quality differences within the same price segment. 
 
     - Many top brands in a given year have only a few products.
 

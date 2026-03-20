@@ -41,7 +41,14 @@
         <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
  
     - Built different versions of a “value for money” score (including log and z-score normalization).
-        - Results depend heavily on the definition. The results of rating / log(price) approach dominate with cheap products. Using normalized score (z-score) leads to more balanced brands. 
+        - Results depend heavily on the definition. The results of rating / log(price) approach dominate with cheap products. Using normalized score (z-score) leads to more balanced brands.
+      
+        The higher the score value, the better  
+        <img width="768" height="552" alt="image" src="https://github.com/user-attachments/assets/ede62207-8cc9-4ad5-b2b7-b932ef922df1" />
+
+        The higher the z score, the better
+        <img width="768" height="552" alt="image" src="https://github.com/user-attachments/assets/b1f40fd8-7bb6-4b07-94b2-014868c2b445" />
+
 
 - Analyzed market structure:
 

@@ -114,7 +114,7 @@
 
      <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/dad91741-d3f8-4cc3-a73d-77beaf37ac47" />
 
-    - Comfort/usability complaints appear highest in cheap, lowest in mid, with luxury in between.
+    - Comfort/usability complaints appear highest in the cheap segment, lowest in the mid segment, with luxury in between.
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/a151f742-17df-482d-84d4-177394c1a515" />
 

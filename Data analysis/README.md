@@ -30,6 +30,11 @@
     <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
 
 
+- Analyzed how brand-level average prices evolve over time. For each year, the average price of products was computed at the brand level, and the resulting distribution of brand-level average prices is visualized using boxplots, segmented into price categories.
+
+<img width="779" height="547" alt="image" src="https://github.com/user-attachments/assets/f81c2906-d19e-49b4-a8ee-63ab5cfd171f" />
+
+
 - Investigated relationship between price and satisfaction:
 
     - Tested whether expensive brands are actually better rated. Compared how ratings differ across these price segments. All segments have very similar rating ranges, but cheap products show a wider spread, and luxury products are more tightly clustered.

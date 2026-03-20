@@ -30,7 +30,7 @@
     <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
 
 
-- Analyzed how brand-level average prices evolve over time. For each year, the average price of products was computed at the brand level, and the resulting distribution of brand-level average prices is visualized using boxplots, segmented into price categories.
+- Analyzed how brand-level average prices evolve over time. For each year, the average price of products was computed at the brand level, and the resulting distribution of brand-level average prices was visualized using boxplots, segmented into price categories.
 
 <img width="1012" height="525" alt="image" src="https://github.com/user-attachments/assets/ddf1621b-b359-4b53-a0b4-a2290145881b" />
 

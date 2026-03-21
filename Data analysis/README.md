@@ -38,7 +38,7 @@
 
     - Tested whether expensive brands are actually better rated. Compared how ratings differ across these price segments. All segments have very similar rating ranges, but cheap products show a wider spread, and luxury products are more tightly clustered.
 
-        <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
+        <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/0acc28b9-92e8-477a-a27b-f0505c339c7c" />
  
     - Built different versions of a “value for money” score (including log and z-score normalization).
         - Results depend heavily on the definition. The results of the rating / log(price) approach favor cheap products. Using normalized score (z-score) leads to more balanced recommendations.

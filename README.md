@@ -10,6 +10,8 @@ From the available categories, the dataset Clothing, Shoes and Jewelry was downl
 
 Since this dataset contains multiple product types, additional processing was performed to extract only the jewelry-related products and their corresponding reviews.
 
+For details on data prepration, see: [data prepration](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data_Preparation)
+
 **Data Analysis part**
 
 This project analyzes customer reviews from jewelry subset dataset of Amazon. The analysis begins with exploratory data analysis (EDA) to better understand the data. Brand performance, rating distributions, trends over time, and price segments are examined. The goal is to extract insights from large-scale text review and rating data and identify patterns in customer sentiment, preferences, and common issues.

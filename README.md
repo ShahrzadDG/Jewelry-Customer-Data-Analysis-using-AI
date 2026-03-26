@@ -19,7 +19,7 @@ The analysis resulted in findings on customer satisfaction trends, frequently me
 
 This part of the project focuses on applying NLP techniques to extract insights from large-scale review data.
 
-So far, a transformer-based sentiment classification model has been developed using DistilBERT. Reviews are classified into negative, neutral, and positive categories based on ratings. The model is evaluated using accuracy, macro-averaged precision, recall, and F1-score, along with confusion matrix and per-class analysis. An additional experiment was conducted to evaluate whether RoBERTa could improve performance on the neutral class, which is typically more difficult to classify. 
+So far, a transformer-based sentiment classification model has been developed using DistilBERT. Reviews are classified into negative, neutral, and positive categories based on ratings. An additional experiment was conducted to evaluate whether RoBERTa could improve performance on the neutral class, which is typically more difficult to classify. 
 
 Further steps of this project includes: (In progress)
 

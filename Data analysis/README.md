@@ -1,3 +1,11 @@
+Aims: Analyzing customer reviews from the jewelry subset of Amazon data to understand customer behavior and product trends.
+
+I performed exploratory data analysis (EDA) to examine brand performance, rating distributions, time-based trends, and price segments.
+
+I processed large-scale review and rating data, including text reviews, to identify patterns in customer sentiment, preferences, and common issues.
+
+I derived insights on customer satisfaction, frequently mentioned product features, and overall sentiment trends, supporting data-driven decision making in product and market analysis.
+
 - Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands) to understand the jewelry market on Amazon.
 
 - Cleaned and structured the data to analyze products, brands, prices, ratings, and review texts.

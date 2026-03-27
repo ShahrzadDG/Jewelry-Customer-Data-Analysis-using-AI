@@ -40,9 +40,6 @@ reviews["label"]=np.select([reviews["rating"] <=2.5 ,(reviews["rating"] >= 2.5) 
 print(reviews.shape)
 #reviews.head()
 #reviews["sentiment"].value_counts().sort_index().plot(kind="bar")
-#plt.title("Class distribution")
-#plt.ylabel("Count")
-#plt.show()
 
 #percentage of how many rating exist in each segment
 reviews["sentiment"].value_counts(normalize=True)
@@ -95,7 +92,7 @@ model.to("cuda")
 
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 training_args = TrainingArguments(
-    output_dir="/beegfs/dehghani/NLP/Amazon2023/",
+    output_dir="/.../Amazon2023/distilbert-base-uncased/",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
@@ -125,18 +122,12 @@ y_true = np.array(test_df["label"])
 
 print(classification_report(y_true, y_pred,target_names=["negative", "neutral", "positive"]))
 
-#confusion matrix
-#cm = confusion_matrix(y_true, y_pred)
-#disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=["negative", "neutral", "positive"])
-#disp.plot(cmap="Blues")
-#plt.title("Confusion Matrix")
-#plt.show()
 
 results_df = pd.DataFrame({"y_true": y_true,"y_pred": y_pred})
 
-results_df.to_csv("/beegfs/dehghani/NLP/Amazon2023/test_predictions.csv", index=False)
+results_df.to_csv("/.../Amazon2023/test_predictions.csv", index=False)
 
-save_path = "/beegfs/dehghani/NLP/Amazon2023/"
+save_path = "/.../Amazon2023/distilbert-base-uncased/"
 trainer.save_model(save_path)
 tokenizer.save_pretrained(save_path)
 

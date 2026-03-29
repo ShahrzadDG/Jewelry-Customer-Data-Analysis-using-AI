@@ -22,14 +22,15 @@ Finally, the trained model and tokenizer are saved to disk, allowing them to be 
 
 #### Evaliation
 
-The evaluation process for RoBERTa follows the same pipeline used for DistilBERT to ensure a fair comparison. The trained model is loaded and applied to the same test dataset, and performance is analyzed using identical metrics, including accuracy, macro F1-score, precision, recall, classification reports, confusion matrices, and ROC curves.
+The evaluation process for RoBERTa follows the same pipeline used for DistilBERT to have a fair comparison. The trained model is loaded and applied to the same test dataset, and performance is analyzed using identical metrics, including accuracy, macro F1-score, precision, recall, classification reports, confusion matrices, and ROC curves.
 
-This consistent evaluation setup allows for a direct comparison between the two models and highlights any improvements or trade-offs.
+Both models achieve very similar overall performance, with accuracy around 93%. However, a more detailed comparison using macro-averaged metrics reveals differences.
 
-The RoBERTa model achieves strong performance on the test dataset, with accuracy comparable to or slightly better than DistilBERT. However, as with the previous model, accuracy alone is not sufficient due to class imbalance. Therefore, macro-averaged metrics are used to better assess performance across all sentiment classes.
+RoBERTa achieves a slightly higher macro F1-score (0.7973 vs 0.7954) and macro recall (0.7968 vs 0.7899) compared to DistilBERT. This indicates that RoBERTa provides a more balanced performance across all sentiment classes.
 
-The macro F1-score is particularly important here, as it reflects whether improvements have been made for underrepresented classes such as neutral.
+The main objective of this experiment was to improve the classification of neutral reviews. The results confirm that RoBERTa achieves this goal. Compared to DistilBERT, neutral recall increases from 0.501 to 0.519, neutral F1-score improves from 0.540 to 0.546, and neutral precision slightly decreases from 0.586 to 0.577. This shows that RoBERTa is better at detecting neutral samples, meaning it misses fewer neutral reviews. However, this comes at the cost of slightly lower precision, indicating that it sometimes misclassifies non-neutral samples as neutral.
 
+The confusion matrices further illustrate this trade-off. RoBERTa correctly identifies a larger portion of neutral reviews compared to DistilBERT, which explains the increase in recall. At the same time, it introduces slightly more confusion between neutral and other classes, leading to a small drop in precision. This behavior is expected when improving recall in imbalanced classification problems.
 
-
+Overall, both models perform strongly, but they have different strengths. DistilBERT has slightly higher accuracy and precision, more conservative predictions, and better for efficiency and deployment. RoBERTa, on the other hand, has better macro F1-score and recall, improved performance on the neutral class, and more balanced classification across all classes. 
 

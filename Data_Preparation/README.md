@@ -9,11 +9,11 @@ The preprocessing pipeline consists of two main stages:
    
    Method:
    
-      1. Filter the metadata to keep only items that belong to jewelry-related categories.
+      1. Filtered the metadata to keep only items that belong to jewelry-related categories.
    
-      2. Extract the corresponding jewelry products and store their unique parent_asin identifiers.
+      2. Extracted the corresponding jewelry products and stored their unique parent_asin identifiers.
   
-      3. Collect additional useful metadata such as the product title, average rating, rating number, price, brand, and manufacturer, and store the results in a structured dataset.
+      3. Collected additional useful metadata such as the product title, average rating, rating number, price, brand, and manufacturer, and stored the results in a structured dataset.
    
 2. Extracting Reviews for Jewelry Products:
    
@@ -23,9 +23,9 @@ The preprocessing pipeline consists of two main stages:
    
    Method:
    
-      1. Filter the reviews to keep only those associated with the jewelry products identified in the previous step.
+      1. Filtered the reviews to keep only those associated with the jewelry products identified in the previous step.
   
-      2. The final dataset is stored in a parquet format and partitioned by year. Each year directory contains several reviews-XXXX.parquet files with the processed review data.
+      2. The final dataset was stored in a parquet format and partitioned by year. Each year directory contains several reviews-XXXX.parquet files with the processed review data.
          
        Path to each file: /.../year=YYYY/reviews-[0000..N].parquet (Ex: reviews-0000.parquet, reviews-0001.parquet, etc)
  

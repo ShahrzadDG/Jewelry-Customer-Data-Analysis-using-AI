@@ -4,6 +4,8 @@ I performed an exploratory data analysis (EDA) to examine brand performance, rat
 
 I processed large-scale text review and rating data to identify patterns in customer sentiment, preferences, and common issues.
 
+I quantified the impact of different complaint types (durability, size, appearance, and color) on product ratings using regression analysis to identify which issues most strongly drive customer dissatisfaction.
+
 - Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands) to understand the jewelry market on Amazon.
 
 - Cleaned and structured the data to analyze products, brands, prices, ratings, and review texts.

@@ -202,7 +202,7 @@ I quantified the impact of different complaint types (durability, size, appearan
  
      - In mid-priced products, both durability and appearance-related complaints have a strong impact on ratings, with coefficients of approximately -2.9 for durability and -3.0 for appearance. This shows that customers in this price segment value both functionality and visual quality, with appearance having a slightly stronger effect. Other factors such as size (~ -0.2) and color (~ -0.7) have a noticeably smaller impact in this segment.
   
-     - Customer priorities shift with price: from durability in cheap products to a combination of functionality and appearance in mid-priced products.
+     - Customer expectations rise and shift with price: from a focus on durability in cheap products to a combination of durability and appearance in mid-priced products.
  
      - In luxury products, no clear pattern is observed due to the very small number of products, making results unreliable.
 

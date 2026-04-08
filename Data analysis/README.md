@@ -137,9 +137,12 @@ I quantified the impact of different complaint types (durability, size, appearan
     <img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/07b68520-c14f-49f1-a247-cc17fdbbf0dd" />
     
 
+
 - Quantified how different types of customer complaints affect product ratings.
-      - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color-related issues.
-      - Created binary indicators for each complaint type at the review level and aggregated them to product-level complaint rates (e.g., share of reviews mentioning durability issues per product).
+  
+    - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color-related issues.
+      
+    - Created binary indicators for each complaint type at the review level and aggregated them to product-level complaint rates (e.g., share of reviews mentioning durability issues per product).
 
 
   
